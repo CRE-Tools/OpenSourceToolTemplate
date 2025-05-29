@@ -1,6 +1,10 @@
-# PUCPR - #PROJECT NAME#
+<p align="center">
+    <img width="100" height="100" src="/Documentation~/logos/1024x.png" align="center" />
+</p>
 
-[About](#about) | [How to Install](#how-to-install) | [Contribute](#how-to-contribute)
+<h1 align="center">PUCPR - #PROJECT NAME#</h1>
+
+[About](#about) | [How to Install](#how-to-install) | <a href="/Documentation~/index.md">Documentation</a> | <a href="/Documentation~/CONTRIBUTING.md">Contributing</a>
 
 ## About
 
@@ -17,17 +21,3 @@
 - Insert `#GIT LINK#`
 - Add  
 - Done
-
-## How to Contribute
-
-We follow the GitFlow workflow for this project:
-
-1. Fork the repository
-2. Create a new feature branch from `develop` branch
-3. Make your changes
-4. Commit your changes with clear commit messages
-5. Submit a pull request targeting the `develop` branch
-
-Note: All feature branches must be created from and merged back into the `develop` branch. Direct changes to `main` branch are not allowed.
-
-For bug reports and feature requests, please open an issue in the repository.

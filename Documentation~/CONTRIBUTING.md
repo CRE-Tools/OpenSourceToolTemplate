@@ -1,5 +1,5 @@
 > [!WARNING]
-> PAGE UNDER WORK!!!
+> NOT UPDATED!!!
 
 # Contributing
 [Workflow](#workflow) | [Features](#features) | [Hotfixes](#hotfixes) | [Reports](#reports)
